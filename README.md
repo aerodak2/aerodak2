@@ -23,7 +23,7 @@ namespace githubprofile
 		string Name = "Arda";
 		int Age = 16;
 		Country = "Turkey";
-		bool isStudent = true;
+		bool student = true;
 		string FavoriteLanguage = "c#/c++";
 		string LanguagesSpoken[] = { "Turkish","English" };
 		
@@ -37,12 +37,5 @@ namespace githubprofile
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=aerodak2&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerodak2&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aerodak2&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>
